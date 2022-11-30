@@ -527,7 +527,7 @@ header.sticky{
 	}
 }
 
-@media (max-width: 800px){
+@media (max-width: 600px){
 	.home{
 		grid-template-columns: 1fr;
 		min-height: 130vh;
@@ -559,8 +559,8 @@ header.sticky{
 		transition: .3s;
 	}
 }
-@media (max-width: 540px){
+@media (max-width: 500px){
 	.contact .action form input[type="email"] {
-		width: 310px;
+		width: 300px;
 	}
 }
